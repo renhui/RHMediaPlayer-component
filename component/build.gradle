@@ -44,9 +44,5 @@ dependencies {
     implementation 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8'
 
     // 本地 core 代码
-    // api project(':core')
-
-    // 远程仓库
-    api 'com.github.renhui:RHMediaPlayer-core:v0.1.2-beta'
-
+    api project(':core')
 }
