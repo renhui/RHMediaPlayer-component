@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000">
+
+        <com.renhui.component.render.TextureRenderView
+            android:id="@+id/renderView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true" />
+
+        <com.renhui.component.controller.VideoGestureRelativeLayout
+            android:id="@+id/videoGestureLayer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.renhui.component.controller.ShowCompleteLayout
+                android:id="@+id/showCompleteLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true" />
+
+            <com.renhui.component.controller.ShowErrorLayout
+                android:id="@+id/showErrorLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true" />
+
+            <com.renhui.component.controller.ShowLoadingLayout
+                android:id="@+id/showLoadingLayout"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true" />
+
+            <com.renhui.component.controller.ShowChangeLayout
+                android:id="@+id/showChangeLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true" />
+
+        </com.renhui.component.controller.VideoGestureRelativeLayout>
+
+        <com.renhui.component.controller.PlayerControlView
+            android:id="@+id/playControlView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </RelativeLayout>
+
+</LinearLayout>

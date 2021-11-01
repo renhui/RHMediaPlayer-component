@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_base_blue1AFE">#1A0088FE</color>
+    <color name="app_base_blue99FE">#990088FE</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="app_base_blue">#FF0780EC</color>
+    <color name="lineColor_click">#1296db</color>
+    <color name="app_main_base">#FF0780EC</color>
+    <color name="app_base_blue00FE4D">#4D0088FE</color>
+    <color name="app_base_blue00FE">#FF0088FE</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="app_base_blueCCFF">#FFCCE7FF</color>
+
+
+    <color name="app_base_black">#FF333333</color>
+    <color name="app_base_black122C">#FF121F2C</color>
+    <color name="app_base_black992C">#717980</color>
+    <color name="app_base_orange">#FFFF9520</color>
+    <color name="rb_text_check">#ff5200</color>
+    <color name="app_base_orange4C13">#FFFF4C13</color>
+    <color name="app_base_orange5500">#FFFF5500</color>
+    <color name="app_base_orangeFE0E">#FFFE920E</color>
+    <color name="app_base_orangeFF2F">#FFFF842F</color>
+    <color name="app_base_orange1AFF2F">#1AFF842F</color>
+    <color name="app_base_orangeF852">#FFF85652</color>
+    <color name="app_base_orange80F852">#80F85652</color>
+    <color name="app_base_orangeFFD5">#FFFFE6D5</color>
+    <color name="app_base_orangeF557">#FFF55757</color>
+    <color name="app_base_penFFD5">#FFFFE6D5</color>
+
+
+    <color name="app_base_gray_99">#FF999999</color>
+    <color name="app_base_gray_D0D5">#FFD0D2D5</color>
+    <color name="app_base_gray_66">#FF666666</color>
+    <color name="lineColor_unclick">#9b9b9b</color>
+    <color name="app_base_gray_E1">#FFE1E1E1</color>
+    <color name="app_base_gray_BB">#FFBBBBBB</color>
+    <color name="app_base_gray_BC">#FFBCBCBC</color>
+    <color name="line_theme_gray">#FFE1E1E1</color>
+    <color name="verification_code_line_color">#FFA0A5AB</color>
+    <color name="app_base_gray_DD">#FFDDDDDD</color>
+    <color name="app_base_gray_A0AB">#FFA0A5AB</color>
+    <color name="text_common_black3243">#FF323643</color>
+    <color name="text_common_black66">#FF666666</color>
+    <color name="text_common_black7180">#FF717980</color>
+
+
+    <color name="app_base_green">#FF32C03C</color>
+    <color name="app_base_green0614">#FF06A414</color>
+    <color name="app_base_green1965">#FF19C565</color>
+    <color name="app_base_greenD1E4">#FFD1F2E4</color>
+    <color name="app_base_green1B79">#FF1BBD79</color>
+
+    <color name="text_common_black33">#FF333333</color>
+    <color name="text_common_blackcd">#CC000000</color>
+    <color name="text_common_black00">#000000</color>
+    <color name="text_theme_black">#FF333333</color>
+
+
+    <color name="text_theme_white">#FFFFFFFF</color>
+    <color name="text_common_garyF5">#FFF5F5F5</color>
+    <color name="app_base_gray_f6">#FFF6F6F6</color>
+    <color name="app_base_gray_f9">#FFF9F9F9</color>
+
+</resources>

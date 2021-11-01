@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">vodmodule</string>
+
+    <string name="vod_resource_video_is_null">没有视频资源</string>
+    <string name="vod_resource_audio_is_null">没有音频资源</string>
+
+</resources>
